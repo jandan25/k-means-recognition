@@ -1,0 +1,350 @@
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\AForge.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\AForge.Imaging.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\AForge.Math.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.GL.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\Emgu.CV.World.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\OpenTK.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\OpenTK.GLControl.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\ZedGraph.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\AForge.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\AForge.Imaging.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\AForge.Math.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.GL.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\Emgu.CV.World.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\OpenTK.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\OpenTK.GLControl.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\ZedGraph.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\de\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\es\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\fr\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\hu\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\it\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\ja\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\pt\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\ru\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\sk\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\sv\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\tr\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\obj\Debug\MyVkr0.1.csproj.GenerateResource.Cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\obj\Debug\MyVkr0.1.csprojResolveAssemblyReference.cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\obj\Debug\MyVkr0.1.csprojResolveAssemblyReference.cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\obj\Debug\MyVkr0.1.csproj.GenerateResource.Cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\AForge.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\AForge.Imaging.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\AForge.Math.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.GL.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\Emgu.CV.World.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\OpenTK.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\OpenTK.GLControl.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\ZedGraph.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\AForge.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\AForge.Imaging.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\AForge.Math.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.GL.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\Emgu.CV.World.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\OpenTK.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\OpenTK.GLControl.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\ZedGraph.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\de\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\es\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\fr\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\hu\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\it\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\ja\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\pt\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\ru\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\sk\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\sv\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\tr\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.2\WindowsFormsApplication3\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\AForge.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\AForge.Imaging.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\AForge.Math.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.GL.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\Emgu.CV.World.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\OpenTK.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\OpenTK.GLControl.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\ZedGraph.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\AForge.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\AForge.Imaging.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\AForge.Math.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.GL.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\Emgu.CV.World.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\OpenTK.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\OpenTK.GLControl.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\ZedGraph.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\de\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\es\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\fr\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\hu\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\it\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\ja\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\pt\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\ru\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\sk\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\sv\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\tr\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\obj\Debug\MyVkr0.1.csprojResolveAssemblyReference.cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.3\WindowsFormsApplication3\obj\Debug\MyVkr0.1.csproj.GenerateResource.Cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\AForge.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\AForge.Imaging.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\AForge.Math.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.GL.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\Emgu.CV.World.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\OpenTK.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\OpenTK.GLControl.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\ZedGraph.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\AForge.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\AForge.Imaging.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\AForge.Math.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.GL.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\Emgu.CV.World.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\OpenTK.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\OpenTK.GLControl.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\ZedGraph.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\de\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\es\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\fr\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\hu\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\it\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\ja\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\pt\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\ru\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\sk\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\sv\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\tr\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\obj\Debug\MyVkr0.1.csproj.GenerateResource.Cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.4\WindowsFormsApplication3\obj\Debug\MyVkr0.1.csprojResolveAssemblyReference.cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.5\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.5\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.5\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.5\WindowsFormsApplication3\bin\Debug\AForge.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.5\WindowsFormsApplication3\bin\Debug\AForge.Imaging.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.5\WindowsFormsApplication3\bin\Debug\AForge.Math.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.5\WindowsFormsApplication3\bin\Debug\AForge.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.5\WindowsFormsApplication3\bin\Debug\AForge.Imaging.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.5\WindowsFormsApplication3\bin\Debug\AForge.Math.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.5\WindowsFormsApplication3\obj\Debug\MyVkr0.1.csprojResolveAssemblyReference.cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.5\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.5\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.5\WindowsFormsApplication3\obj\Debug\MyVkr0.1.csproj.GenerateResource.Cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.5\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.5\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.5\WindowsFormsApplication3\bin\Debug\AForge.Video.DirectShow.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.5\WindowsFormsApplication3\bin\Debug\AForge.Video.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.5\WindowsFormsApplication3\bin\Debug\AForge.Video.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.5\WindowsFormsApplication3\bin\Debug\AForge.Video.DirectShow.xml
+E:\MyVkr_0.5\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\MyVkr_0.5\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\MyVkr_0.5\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\MyVkr_0.5\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\MyVkr_0.5\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\MyVkr_0.5\WindowsFormsApplication3\bin\Debug\AForge.dll
+E:\MyVkr_0.5\WindowsFormsApplication3\bin\Debug\AForge.Imaging.dll
+E:\MyVkr_0.5\WindowsFormsApplication3\bin\Debug\AForge.Math.dll
+E:\MyVkr_0.5\WindowsFormsApplication3\bin\Debug\AForge.Video.DirectShow.dll
+E:\MyVkr_0.5\WindowsFormsApplication3\bin\Debug\AForge.Video.dll
+E:\MyVkr_0.5\WindowsFormsApplication3\bin\Debug\AForge.xml
+E:\MyVkr_0.5\WindowsFormsApplication3\bin\Debug\AForge.Imaging.xml
+E:\MyVkr_0.5\WindowsFormsApplication3\bin\Debug\AForge.Math.xml
+E:\MyVkr_0.5\WindowsFormsApplication3\bin\Debug\AForge.Video.xml
+E:\MyVkr_0.5\WindowsFormsApplication3\bin\Debug\AForge.Video.DirectShow.xml
+E:\MyVkr_0.5\WindowsFormsApplication3\obj\Debug\MyVkr0.1.csprojResolveAssemblyReference.cache
+E:\MyVkr_0.5\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+E:\MyVkr_0.5\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\MyVkr_0.5\WindowsFormsApplication3\obj\Debug\MyVkr0.1.csproj.GenerateResource.Cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.6\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.6\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.6\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.6\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.6\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.6\WindowsFormsApplication3\bin\Debug\AForge.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.6\WindowsFormsApplication3\bin\Debug\AForge.Imaging.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.6\WindowsFormsApplication3\bin\Debug\AForge.Math.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.6\WindowsFormsApplication3\bin\Debug\AForge.Video.DirectShow.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.6\WindowsFormsApplication3\bin\Debug\AForge.Video.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.6\WindowsFormsApplication3\bin\Debug\AForge.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.6\WindowsFormsApplication3\bin\Debug\AForge.Imaging.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.6\WindowsFormsApplication3\bin\Debug\AForge.Math.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.6\WindowsFormsApplication3\bin\Debug\AForge.Video.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.6\WindowsFormsApplication3\bin\Debug\AForge.Video.DirectShow.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.6\WindowsFormsApplication3\obj\Debug\MyVkr0.1.csprojResolveAssemblyReference.cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.6\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.6\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.6\WindowsFormsApplication3\obj\Debug\MyVkr0.1.csproj.GenerateResource.Cache
+C:\Users\student\Downloads\MyVkr_0.6\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\student\Downloads\MyVkr_0.6\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\student\Downloads\MyVkr_0.6\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\student\Downloads\MyVkr_0.6\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\student\Downloads\MyVkr_0.6\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\student\Downloads\MyVkr_0.6\WindowsFormsApplication3\bin\Debug\AForge.dll
+C:\Users\student\Downloads\MyVkr_0.6\WindowsFormsApplication3\bin\Debug\AForge.Imaging.dll
+C:\Users\student\Downloads\MyVkr_0.6\WindowsFormsApplication3\bin\Debug\AForge.Math.dll
+C:\Users\student\Downloads\MyVkr_0.6\WindowsFormsApplication3\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\student\Downloads\MyVkr_0.6\WindowsFormsApplication3\bin\Debug\AForge.Video.dll
+C:\Users\student\Downloads\MyVkr_0.6\WindowsFormsApplication3\bin\Debug\AForge.xml
+C:\Users\student\Downloads\MyVkr_0.6\WindowsFormsApplication3\bin\Debug\AForge.Imaging.xml
+C:\Users\student\Downloads\MyVkr_0.6\WindowsFormsApplication3\bin\Debug\AForge.Math.xml
+C:\Users\student\Downloads\MyVkr_0.6\WindowsFormsApplication3\bin\Debug\AForge.Video.xml
+C:\Users\student\Downloads\MyVkr_0.6\WindowsFormsApplication3\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\student\Downloads\MyVkr_0.6\WindowsFormsApplication3\obj\Debug\MyVkr0.1.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\MyVkr_0.6\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\student\Downloads\MyVkr_0.6\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\student\Downloads\MyVkr_0.6\WindowsFormsApplication3\obj\Debug\MyVkr0.1.csproj.GenerateResource.Cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.7\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.7\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.7\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.7\WindowsFormsApplication3\bin\Debug\AForge.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.7\WindowsFormsApplication3\bin\Debug\AForge.Imaging.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.7\WindowsFormsApplication3\bin\Debug\AForge.Math.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.7\WindowsFormsApplication3\bin\Debug\AForge.Video.DirectShow.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.7\WindowsFormsApplication3\bin\Debug\AForge.Video.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.7\WindowsFormsApplication3\bin\Debug\AForge.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.7\WindowsFormsApplication3\bin\Debug\AForge.Imaging.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.7\WindowsFormsApplication3\bin\Debug\AForge.Math.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.7\WindowsFormsApplication3\bin\Debug\AForge.Video.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.7\WindowsFormsApplication3\bin\Debug\AForge.Video.DirectShow.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.7\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.7\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.7\WindowsFormsApplication3\obj\Debug\MyVkr0.1.csproj.GenerateResource.Cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.7\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.7\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.7\WindowsFormsApplication3\obj\Debug\MyVkr0.1.csprojResolveAssemblyReference.cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_0.7\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_0.7\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_0.7\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_0.7\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_0.7\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_0.7\WindowsFormsApplication3\bin\Debug\AForge.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_0.7\WindowsFormsApplication3\bin\Debug\AForge.Imaging.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_0.7\WindowsFormsApplication3\bin\Debug\AForge.Math.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_0.7\WindowsFormsApplication3\bin\Debug\AForge.Video.DirectShow.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_0.7\WindowsFormsApplication3\bin\Debug\AForge.Video.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_0.7\WindowsFormsApplication3\bin\Debug\AForge.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_0.7\WindowsFormsApplication3\bin\Debug\AForge.Imaging.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_0.7\WindowsFormsApplication3\bin\Debug\AForge.Math.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_0.7\WindowsFormsApplication3\bin\Debug\AForge.Video.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_0.7\WindowsFormsApplication3\bin\Debug\AForge.Video.DirectShow.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_0.7\WindowsFormsApplication3\obj\Debug\MyVkr0.1.csprojResolveAssemblyReference.cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_0.7\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_0.7\WindowsFormsApplication3\obj\Debug\MyVkr0.1.csproj.GenerateResource.Cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_0.7\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Gen_Form.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.0\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.0\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.0\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.0\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.0\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.0\WindowsFormsApplication3\bin\Debug\AForge.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.0\WindowsFormsApplication3\bin\Debug\AForge.Imaging.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.0\WindowsFormsApplication3\bin\Debug\AForge.Math.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.0\WindowsFormsApplication3\bin\Debug\AForge.Video.DirectShow.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.0\WindowsFormsApplication3\bin\Debug\AForge.Video.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.0\WindowsFormsApplication3\bin\Debug\AForge.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.0\WindowsFormsApplication3\bin\Debug\AForge.Imaging.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.0\WindowsFormsApplication3\bin\Debug\AForge.Math.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.0\WindowsFormsApplication3\bin\Debug\AForge.Video.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.0\WindowsFormsApplication3\bin\Debug\AForge.Video.DirectShow.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.0\WindowsFormsApplication3\obj\Debug\MyVkr0.1.csprojResolveAssemblyReference.cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.0\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Gen_Form.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.0\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.0\WindowsFormsApplication3\obj\Debug\MyVkr0.1.csproj.GenerateResource.Cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.1\WindowsFormsApplication3\bin\Debug\AForge.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.1\WindowsFormsApplication3\bin\Debug\AForge.Imaging.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.1\WindowsFormsApplication3\bin\Debug\AForge.Math.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.1\WindowsFormsApplication3\bin\Debug\AForge.Video.DirectShow.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.1\WindowsFormsApplication3\bin\Debug\AForge.Video.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.1\WindowsFormsApplication3\bin\Debug\AForge.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.1\WindowsFormsApplication3\bin\Debug\AForge.Imaging.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.1\WindowsFormsApplication3\bin\Debug\AForge.Math.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.1\WindowsFormsApplication3\bin\Debug\AForge.Video.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.1\WindowsFormsApplication3\bin\Debug\AForge.Video.DirectShow.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.1\WindowsFormsApplication3\obj\Debug\MyVkr0.1.csprojResolveAssemblyReference.cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Gen_Form.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.1\WindowsFormsApplication3\obj\Debug\MyVkr0.1.csproj.GenerateResource.Cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2 - новые эталоны\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2 - новые эталоны\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2 - новые эталоны\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2 - новые эталоны\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2 - новые эталоны\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2 - новые эталоны\WindowsFormsApplication3\bin\Debug\AForge.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2 - новые эталоны\WindowsFormsApplication3\bin\Debug\AForge.Imaging.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2 - новые эталоны\WindowsFormsApplication3\bin\Debug\AForge.Math.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2 - новые эталоны\WindowsFormsApplication3\bin\Debug\AForge.Video.DirectShow.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2 - новые эталоны\WindowsFormsApplication3\bin\Debug\AForge.Video.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2 - новые эталоны\WindowsFormsApplication3\bin\Debug\AForge.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2 - новые эталоны\WindowsFormsApplication3\bin\Debug\AForge.Imaging.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2 - новые эталоны\WindowsFormsApplication3\bin\Debug\AForge.Math.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2 - новые эталоны\WindowsFormsApplication3\bin\Debug\AForge.Video.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2 - новые эталоны\WindowsFormsApplication3\bin\Debug\AForge.Video.DirectShow.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2 - новые эталоны\WindowsFormsApplication3\obj\Debug\MyVkr0.1.csprojResolveAssemblyReference.cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2 - новые эталоны\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Gen_Form.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2 - новые эталоны\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2 - новые эталоны\WindowsFormsApplication3\obj\Debug\MyVkr0.1.csproj.GenerateResource.Cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2.1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2.1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2.1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2.1\WindowsFormsApplication3\bin\Debug\AForge.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2.1\WindowsFormsApplication3\bin\Debug\AForge.Imaging.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2.1\WindowsFormsApplication3\bin\Debug\AForge.Math.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2.1\WindowsFormsApplication3\bin\Debug\AForge.Video.DirectShow.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2.1\WindowsFormsApplication3\bin\Debug\AForge.Video.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2.1\WindowsFormsApplication3\bin\Debug\AForge.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2.1\WindowsFormsApplication3\bin\Debug\AForge.Imaging.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2.1\WindowsFormsApplication3\bin\Debug\AForge.Math.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2.1\WindowsFormsApplication3\bin\Debug\AForge.Video.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2.1\WindowsFormsApplication3\bin\Debug\AForge.Video.DirectShow.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2.1\WindowsFormsApplication3\obj\Debug\MyVkr0.1.csprojResolveAssemblyReference.cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Gen_Form.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\Прога\MyVkr_1.2.1\WindowsFormsApplication3\obj\Debug\MyVkr0.1.csproj.GenerateResource.Cache

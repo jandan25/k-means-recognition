@@ -1,0 +1,280 @@
+c:\users\серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Emgu.CV.World.dll
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\OpenTK.dll
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ZedGraph.dll
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Emgu.CV.World.xml
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\OpenTK.xml
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ZedGraph.xml
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AForge.dll
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AForge.Imaging.dll
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AForge.Math.dll
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AForge.xml
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AForge.Imaging.xml
+C:\Users\Серг\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AForge.Math.xml
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AForge.dll
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AForge.Imaging.dll
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AForge.Math.dll
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Emgu.CV.World.dll
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\OpenTK.dll
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ZedGraph.dll
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AForge.xml
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AForge.Imaging.xml
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AForge.Math.xml
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Emgu.CV.World.xml
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\OpenTK.xml
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ZedGraph.xml
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Серг\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\AForge.dll
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\AForge.Imaging.dll
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\AForge.Math.dll
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.dll
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.GL.dll
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\Emgu.CV.World.dll
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\OpenTK.dll
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\OpenTK.GLControl.dll
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\ZedGraph.dll
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\AForge.xml
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\AForge.Imaging.xml
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\AForge.Math.xml
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.xml
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.GL.xml
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\Emgu.CV.World.xml
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\OpenTK.xml
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\OpenTK.GLControl.xml
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\ZedGraph.xml
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\de\ZedGraph.resources.dll
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\es\ZedGraph.resources.dll
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\fr\ZedGraph.resources.dll
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\hu\ZedGraph.resources.dll
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\it\ZedGraph.resources.dll
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\ja\ZedGraph.resources.dll
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\pt\ZedGraph.resources.dll
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\ru\ZedGraph.resources.dll
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\sk\ZedGraph.resources.dll
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\sv\ZedGraph.resources.dll
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\tr\ZedGraph.resources.dll
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\WindowsFormsApplication3Новая\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\AForge.dll
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\AForge.Imaging.dll
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\AForge.Math.dll
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.dll
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\Emgu.CV.World.dll
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\OpenTK.dll
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\OpenTK.GLControl.dll
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\ZedGraph.dll
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\AForge.xml
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\AForge.Imaging.xml
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\AForge.Math.xml
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.xml
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\Emgu.CV.World.xml
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\OpenTK.xml
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\OpenTK.GLControl.xml
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\ZedGraph.xml
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\NEYRON\Desktop\WindowsFormsApplication3Новая\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\AForge.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\AForge.Imaging.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\AForge.Math.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.GL.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\Emgu.CV.World.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\OpenTK.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\OpenTK.GLControl.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\ZedGraph.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\AForge.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\AForge.Imaging.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\AForge.Math.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.GL.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\Emgu.CV.World.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\OpenTK.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\OpenTK.GLControl.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\ZedGraph.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\de\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\es\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\fr\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\hu\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\it\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\ja\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\pt\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\ru\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\sk\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\sv\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\tr\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\AForge.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\AForge.Imaging.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\AForge.Math.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.GL.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\Emgu.CV.World.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\OpenTK.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\OpenTK.GLControl.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\ZedGraph.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\AForge.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\AForge.Imaging.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\AForge.Math.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.GL.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\Emgu.CV.World.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\OpenTK.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\OpenTK.GLControl.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\ZedGraph.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\de\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\es\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\fr\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\hu\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\it\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\ja\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\pt\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\ru\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\sk\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\sv\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\tr\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\seregaVKR_5.06 nofix\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\AForge.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\AForge.Imaging.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\AForge.Math.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.GL.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\Emgu.CV.World.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\OpenTK.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\OpenTK.GLControl.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\ZedGraph.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\AForge.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\AForge.Imaging.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\AForge.Math.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\Emgu.CV.UI.GL.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\Emgu.CV.World.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\OpenTK.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\OpenTK.GLControl.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\ZedGraph.xml
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\de\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\es\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\fr\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\hu\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\it\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\ja\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\pt\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\ru\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\sk\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\sv\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\tr\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\old hard\инст\IV курс\семестр 8\ВКР\MyVkr_0.1\WindowsFormsApplication3\bin\Debug\zh-tw\ZedGraph.resources.dll
